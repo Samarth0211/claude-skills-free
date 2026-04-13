@@ -8,7 +8,7 @@ Drop any of these `.md` files into `~/.claude/skills/` and Claude Code instantly
 
 ```bash
 # Download a single skill
-curl -o ~/.claude/skills/rate-limiter.md https://raw.githubusercontent.com/Samarth0211/claude-skills-free/main/skills/rate-limiter.md
+curl -o ~/.claude/skills/rate-limiter.md https://raw.githubusercontent.com/Samarth0211/claude-skills-free/master/skills/rate-limiter.md
 
 # Or clone all 50
 git clone https://github.com/Samarth0211/claude-skills-free.git
